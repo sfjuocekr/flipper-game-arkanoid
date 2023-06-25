@@ -5,6 +5,7 @@
 #include <gui/view.h>
 #include <notification/notification.h>
 #include <notification/notification_messages.h>
+#include <dolphin/dolphin.h>
 
 #define TAG "Arkanoid"
 
